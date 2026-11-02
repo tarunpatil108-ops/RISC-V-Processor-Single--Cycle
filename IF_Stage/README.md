@@ -2,7 +2,7 @@
 
 Design the instruction-fetch stage: the program counter register and the next-PC selection.
 
-### Module Specification
+### Module Specification.
 
 ```SystemVerilog
 module if_stage (

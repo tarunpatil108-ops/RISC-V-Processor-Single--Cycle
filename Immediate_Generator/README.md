@@ -2,7 +2,7 @@
 
 Design the immediate generator. It builds the final 32-bit immediate from the decoder's `imm` / `imm_uj` fields.
 
-### Module Specification
+### Module Specification.
 
 ```SystemVerilog
 module imm_generator(

@@ -2,7 +2,7 @@
 
 Design the instruction field decoder. It splits a 32-bit instruction into its fields depending on the opcode.
 
-### Module Specification
+### Module Specification.
 
 ```SystemVerilog
 module decoder(

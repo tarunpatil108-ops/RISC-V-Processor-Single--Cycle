@@ -2,7 +2,7 @@
 
 Design the execute stage: ALU operand selection, the ALU, and the branch / jump target and "taken" logic. It contains the **ALU** and the **ALU Control**.
 
-### Module Specification
+### Module Specification.
 
 ```SystemVerilog
 module ex_stage (

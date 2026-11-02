@@ -2,7 +2,7 @@
 
 Design the write-back stage: it selects the value that is written to the register file.
 
-### Module Specification
+### Module Specification.
 
 ```SystemVerilog
 module wb_stage(

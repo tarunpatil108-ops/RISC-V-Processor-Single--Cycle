@@ -2,7 +2,7 @@
 
 Design the main control unit. It decodes the opcode into the control signals of the datapath.
 
-### Module Specification
+### Module Specification.
 
 ```SystemVerilog
 module main_control (

@@ -2,7 +2,7 @@
 
 Design the ALU control decoder. It turns the operation class from Main Control, plus the instruction's `fn3` / `fn7_5` / `imm11_5` bits, into the ALU's 5-bit `alu_control` code.
 
-### Module Specification
+### Module Specification.
 
 ```SystemVerilog
 module alu_control (

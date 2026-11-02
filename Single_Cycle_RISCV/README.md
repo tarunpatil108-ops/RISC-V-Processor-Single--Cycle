@@ -2,7 +2,7 @@
 
 Design the complete single-cycle RV32I core by connecting the **IF**, **ID**, **EX** and **WB** stages. The instruction and data memories are **outside** the core.
 
-### Module Specification
+### Module Specification.
 
 ```SystemVerilog
 module single_cycle_riscv (

@@ -2,7 +2,7 @@
 
 Design the decode stage by connecting the **Decoder**, **Immediate Generator**, **Register File** and **Main Control**.
 
-### Module Specification
+### Module Specification.
 
 ```SystemVerilog
 module id_stage(

@@ -2,7 +2,7 @@
 
 Design a 32×32 register file with two read ports and one write port, with an asynchronous reset.
 
-### Module Specification
+### Module Specification.
 
 ```SystemVerilog
 module register_file(
